@@ -38,7 +38,7 @@ Medical information on health4all comes from high-quality websites, medical prof
 1. We find and analyze health-related information from high-quality sites across the web.
 2. Teams of healthcare professionals carefully review and refine the information. 
 3. If you search for a symptom, you could find a section called "Health conditions related to this search." 
-This section comes from search results and build a Knowledge Graph over time. We check these results for relevance.
+This section comes from search results and build a Knowledge Graph over time. 
 
 
 
