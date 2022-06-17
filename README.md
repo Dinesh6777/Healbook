@@ -13,14 +13,14 @@ When diet is correct, medicine is of no need"  — Ayurvedic proverb
 
 # What you will learn
 Here you can learn more about the following:
-Symptoms
-Treatments
-Medical conditions
-Prevention and safety
-Concerns
-Age wise precautions
-Special abilities focus 
-Other related conditions
++ Symptoms
++ Treatments
++ Medical conditions
++ Prevention and safety
++ Concerns
++ Age wise precautions
++ Special abilities focus 
++ Other related conditions
 
 # Objectives
 + Universal Health Facts, tips habits - social sharing/likes/follows/ as per age suggestions
