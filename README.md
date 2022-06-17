@@ -23,15 +23,14 @@ Special abilities focus
 Other related conditions
 
 # Objectives
-
-+ Track high-level foods intake and Predict protein/vitamin/mineral deficiencies every 3-6 months based on foods intake. Advise diet plans
-+ Identify symptoms and prevent it at initial stages.
-+ Track daily food habits and exercise routines
 + Universal Health Facts, tips habits - social sharing/likes/follows/ as per age suggestions
-+ Stats for tips followed and worked. Verified stats with doc reports.
-+ Scan and AI analysis for standard Medical diagnostic test reports
-+ Alert on needed tests and advises etc.
-+ Detect herbs/plant species with Camera. - https://github.com/lobe (Machine Learning Made Easy)
++ Identify symptoms and prevent them at initial stages.
++ Track daily food habits and exercise routines.
++ Track high-level foods intake and Predict protein/vitamin/mineral deficiencies every 3-6 months based on foods consumed. Advise diet plans.
++ A social system - likes, follows - Stats for tips followed and what worked. Verified stats with doc reports.
++ Scan and AI analysis for standard Medical diagnostic test reports.
++ Alert on necessary tests and advises etc. based on age / medical conditions.
++ Detect herbs/plant species with a camera - https://github.com/lobe (Machine Learning Made Easy).
 
 # Where medical information comes from
 Medical information on health4all comes from high-quality websites, medical professionals, youtube conent and search results.
