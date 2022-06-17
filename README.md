@@ -33,11 +33,12 @@ Other related conditions
 + Alert on needed tests and advises etc.
 + Detect herbs/plant species with Camera. - https://github.com/lobe (Machine Learning Made Easy)
 
-#Where medical information comes from
+# Where medical information comes from
 Medical information on health4all comes from high-quality websites, medical professionals, youtube conent and search results.
-We find and analyze health-related information from high-quality sites across the web.
-Teams of healthcare professionals carefully review and refine the information. 
-If you search for a symptom, you could find a section called "Health conditions related to this search." This section comes from search results and our Knowledge Graph. We check these results for relevance.
+1. We find and analyze health-related information from high-quality sites across the web.
+2. Teams of healthcare professionals carefully review and refine the information. 
+3. If you search for a symptom, you could find a section called "Health conditions related to this search." 
+This section comes from search results and build a Knowledge Graph over time. We check these results for relevance.
 
 
 
