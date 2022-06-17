@@ -1,5 +1,5 @@
 # Health4all
-A digital platform to enable people with right knowledge to be fit and healthy. Because prevention is better than cure and let Food be thy medicine.
+A digital platform to enable people with right knowledge to be fit and healthy. Because prevention is better than cure and let food be thy medicine.
 https://health4all.glideapp.io/
 
 # Important Quotes 
