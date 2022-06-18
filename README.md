@@ -44,7 +44,11 @@ Medical information on health4all doesn't apply to everyone and isn't a medical 
 #Report incorrect information
 If you find problems with the medical information provided on the project, you can:
 
-Below the medical information, select Feedback.
-Follow the on-screen steps to explain what information is wrong.
-Submit your feedback.
+1. Below the medical information, select Feedback.
+2. Follow the on-screen steps to explain what information is wrong.
+3. Submit your feedback.
 We'll use your feedback to improve the project in the future.
+
+# What does science say?
+1. The control systems engineering foundations of traditional Indian medicine: the Rosetta Stone for Siddha and Ayurveda - Read more here
+2. -
