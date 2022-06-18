@@ -57,6 +57,6 @@ We'll use your feedback to improve the project in the future.
 
 # What does science say?
 
-1. The control systems engineering foundations of traditional Indian medicine: the Rosetta Stone for Siddha and Ayurveda - [Read more here](./TheRosettaStoneforSiddhaAndAyurveda.md)
+1. The control systems engineering foundations of traditional Indian medicine: the Rosetta Stone for Siddha and Ayurveda - [Read here more](./TheRosettaStoneforSiddhaAndAyurveda.md)
 2. 
     *
