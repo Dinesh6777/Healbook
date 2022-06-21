@@ -1,6 +1,8 @@
 
 # What does science say about Ayurveda?
 ## The control systems engineering foundations of traditional Indian medicine: the Rosetta Stone for Siddha and Ayurveda - by VA. Shiva
+
+
 ![4  The control systems engineering foundation of Siddha and Ayurveda](https://user-images.githubusercontent.com/45972925/174414984-a3baefe6-30ab-4ed2-a5b6-b7aa830319ea.jpg)
 
 ![1  Intelligent feedback system](https://user-images.githubusercontent.com/45972925/174414961-e9929730-fdf8-4566-b4fb-ea26da36d2d0.jpeg)
