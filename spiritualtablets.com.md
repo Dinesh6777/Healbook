@@ -1,4 +1,4 @@
-# In one line - 
+# The Story In one line:  
 Spiritual intellect is the root - Physical  health  is  the  fruit
 
 # Spiritual Tablets Framework (STF)
