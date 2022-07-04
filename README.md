@@ -61,5 +61,5 @@ We'll use your feedback to improve the project in the future.
 
 # Alternate Treatments: 
 1. Siddha and Ayurvedha
-2. Spiritual Tablets Framework - Read here - https://github.com/dikadali/Health4all/blob/main/spiritualtablets.com.md
+2. Spiritual Tablets Framework - [Read here more](./spiritualtablets.com.md)
  
