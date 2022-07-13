@@ -1,4 +1,4 @@
-# Health4all
+# PreFit Project(Formerly Health4all)
 
 A digital platform to enable people with right knowledge to be fit and healthy. Because prevention is better than cure and let food be thy medicine.
 ### Access the App here(Beta verion) - https://health4all.glideapp.io/
@@ -37,7 +37,7 @@ Here you can learn more about the following:
 
 # Where medical information comes from
 
-Medical information on health4all comes from high-quality websites, medical professionals, youtube conent and search results.
+Medical information on PreFit comes from high-quality websites, medical professionals, youtube conent and search results.
 
 1. We find and analyze health-related information from high-quality sites across the web.
 2. Teams of healthcare professionals carefully review and refine the information.
@@ -45,7 +45,7 @@ Medical information on health4all comes from high-quality websites, medical prof
 
 # When to consult a healthcare professional
 
-Medical information on health4all doesn't apply to everyone and isn't a medical advice. If you have a medical concern, make sure to contact a healthcare provider. If you think you may have a medical emergency, immediately call your doctor or your local emergency number.
+Medical information on PreFit doesn't apply to everyone and isn't a medical advice. If you have a medical concern, make sure to contact a healthcare provider. If you think you may have a medical emergency, immediately call your doctor or your local emergency number.
 
 #Report incorrect information
 If you find problems with the medical information provided on the project, you can:
