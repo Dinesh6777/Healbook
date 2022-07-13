@@ -63,4 +63,5 @@ We'll use your feedback to improve the project in the future.
 # Alternate Treatments: 
 1. Siddha and Ayurvedha
 2. Spiritual Tablets Framework - [Read here more](./spiritualtablets.com.md)
+3. Music Medicine: Sound At A Cellular Level | Dr. Lee Bartel | TEDxCollingwood - [Youtube](https://www.youtube.com/watch?v=wDZgzsQh0Dw)
  
