@@ -2,7 +2,7 @@
 
 A digital platform to enable people with right knowledge to be fit and healthy. Because prevention is better than cure and let food be thy medicine.
 
-### Access the App here(Beta verion) - https://health4all.glideapp.io/
+### Access the Mobile App here(Beta verion) - [https://health4all.glideapp.io](https://health4all.glideapp.io)
 
 # Important Quotes
 
