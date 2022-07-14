@@ -1,4 +1,4 @@
-# PreFit Project
+# PreFit 
 
 A digital platform to enable people with right knowledge to be fit and healthy. Because prevention is better than cure and let food be thy medicine.
 
