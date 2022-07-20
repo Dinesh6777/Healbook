@@ -1,6 +1,6 @@
 # PreFit 
 
-A free digital platform to enable everyone in the world with right knowledge and tools to be fit and healthy. Because prevention is better than cure and let food be thy medicine.
+A free digital platform to enable everyone in the world with the right knowledge and tools to be fit and healthy. Because prevention is better than cure and let food be thy medicine.
 
 # Access the Mobile App here(Beta verion) 
 [https://prefit.glideapp.io](https://prefit.glideapp.io)
