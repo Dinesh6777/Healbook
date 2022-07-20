@@ -60,7 +60,7 @@ We'll use your feedback to improve the project in the future.
 # What does science say?
 
 1. The control systems engineering foundations of traditional Indian medicine: the Rosetta Stone for Siddha and Ayurveda - [Read here more](./TheRosettaStoneforSiddhaAndAyurveda.md)
-2. Millets can boost growth in children and adolescents by 26 to 39% Study by ICRISAT- (Refer here](https://www.icrisat.org/scientific-evidence-shows-eating-millets-leads-to-better-growth-in-children/)
+2. Millets can boost growth in children and adolescents by 26 to 39% Study by ICRISAT- [Refer here](https://www.icrisat.org/scientific-evidence-shows-eating-millets-leads-to-better-growth-in-children/)
 
 # Alternate Treatments: 
 1. Siddha and Ayurvedha
