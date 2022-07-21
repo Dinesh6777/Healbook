@@ -28,22 +28,22 @@ Here you can learn more about the following:
 
 # Objectives
 
-* Universal Health Facts, tips habits - social sharing/likes/follows/ as per age suggestions
-* Identify symptoms and prevent them at initial stages.
-* Track daily food habits and exercise routines.
-* Track high-level foods intake and Predict protein/vitamin/mineral deficiencies every 3-6 months based on foods consumed. Advise diet plans.
-* A social system - likes, follows - Stats for tips followed and what worked. Verified stats with doc reports.
-* Scan and AI analysis for standard Medical diagnostic test reports.
-* Alert on necessary tests and advises etc. based on age / medical conditions.
-* Detect herbs/plant species with a camera - https://github.com/lobe (Machine Learning Made Easy).
-* Personalized recommendations
- - By age, gender, special conditions
-* Trusted content 
-- cureated by domain experts
-* Tools to empower patients and doctors
-- lets say fitness tracking history, sync from IOT devices
-- History of BP readings,
-- History of Diabetics readings.
+ - Universal Health Facts, tips habits - social sharing/likes/follows/ as per age suggestions
+ - Identify symptoms and prevent them at initial stages.
+ - Track daily food habits and exercise routines.
+ - Track high-level foods intake and Predict protein/vitamin/mineral deficiencies every 3-6 months based on foods consumed. Advise diet plans.
+ - A social system - likes, follows - Stats for tips followed and what worked. Verified stats with doc reports.
+ - Scan and AI analysis for standard Medical diagnostic test reports.
+ - Alert on necessary tests and advises etc. based on age / medical conditions.
+ - Detect herbs/plant species with a camera - https://github.com/lobe (Machine Learning Made Easy).
+ - Personalized recommendations.
+	 - By age, gender, special conditions.
+ - Trusted and verified content.
+	 - curated by domain experts.
+ - Tools to empower patients and doctors
+	 - lets say fitness tracking history, sync from IOT devices
+	 - Track History of BP readings,
+	 - Track History of Diabetics readings.
 
 # Where medical information comes from
 
