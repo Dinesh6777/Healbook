@@ -41,7 +41,7 @@ Here you can learn more about the following:
  - Trusted and verified content.
 	 - curated by domain experts.
  - Tools to empower patients and doctors
-	 - lets say fitness tracking history, sync from IOT devices
+	 - Lets say fitness tracking history, sync from IOT devices
 	 - Track History of BP readings,
 	 - Track History of Diabetics readings.
 
