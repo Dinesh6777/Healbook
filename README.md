@@ -33,7 +33,7 @@ Here you can learn more about the following:
  - Track daily food habits and exercise routines.
  - Track high-level foods intake and Predict protein/vitamin/mineral deficiencies every 3-6 months based on foods consumed. Advise diet plans.
  - A social system - likes, follows - Stats for tips followed and what worked. Verified stats with doc reports.
- - Scan Medical diagnostic test reports with camera and provide AI analysis.
+ - Scan patient medical diagnostic test reports with camera and provide AI analysis.
  - Alert on necessary tests and advises etc. based on age / medical conditions.
  - Detect herbs/plant species with a camera - https://github.com/lobe (Machine Learning Made Easy).
  - Personalized recommendations.
