@@ -36,6 +36,14 @@ Here you can learn more about the following:
 * Scan and AI analysis for standard Medical diagnostic test reports.
 * Alert on necessary tests and advises etc. based on age / medical conditions.
 * Detect herbs/plant species with a camera - https://github.com/lobe (Machine Learning Made Easy).
+* Personalized recommendations
+ - By age, gender, special conditions
+* Trusted content 
+- cureated by domain experts
+* Tools to empower patients and doctors
+- lets say fitness tracking history, sync from IOT devices
+- History of BP readings,
+- History of Diabetics readings.
 
 # Where medical information comes from
 
