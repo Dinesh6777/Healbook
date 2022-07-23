@@ -2,10 +2,15 @@
 
 A free digital platform to enable everyone in the world with the right knowledge and tools to be fit and healthy. Because prevention is better than cure and let food be thy medicine.
 
+![Prefit Fatty liver](https://user-images.githubusercontent.com/45972925/180625862-84e3e66d-ba77-4aee-a5ad-02ec509b824d.gif)
+
+!-[Prefit Fatty liver](https://user-images.githubusercontent.com/45972925/180625729-433ca0b4-3b24-4227-bf8e-62c77cd926cd.gif)
+
 # Access the Mobile App here(Beta verion) 
 [https://prefit.glideapp.io](https://prefit.glideapp.io)
 
-# Important Quotes
+# Important Quotes!
+
 
 * "The doctor of the future will no longer treat the human frame with drugs, but will rather cure and prevent disease with nutrition" — Thomas Edison
 * "Food is your medicine" — the foundation basis of Ayurveda
