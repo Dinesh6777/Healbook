@@ -8,12 +8,12 @@
 4.  Immunity, Anti-bacterial.
 5.  Memory problems.
 6.  Improve Eyesight.
-7.  Vitamin A - 10x than carrot.
-8.  Vitamin C - 7x than oranges.
-9.  Calcium - 17x than milk and Curd.
-10.  Protein - 9x than Milk.
-11.  Potassium - 15x than Banana.
-12.  Iron - 25x Than spinach (Palak leaves).
+7.  Vitamin A - 10x higher than carrot.
+8.  Vitamin C - 7x higher than oranges.
+9.  Calcium - 17x higher  than milk and Curd.
+10.  Protein - 9x higher than Milk.
+11.  Potassium - 15x higher than Banana.
+12.  Iron - 25x higher than spinach (Palak leaves).
 13.  Zinc - It has sufficient quantity that is needed for the human body daily.
 14.  Excellent source of B1, B2, B3 Vitamins.
 15.  Anti aging can be slow down - skin shines and reduces wrinkles.
