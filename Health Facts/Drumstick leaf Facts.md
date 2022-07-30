@@ -34,3 +34,6 @@ Take 2 teaspoons daily.
 # Important Note:
 1. People with kidney problems should reduce the intake.
 2. Pregnant women should consult a doctor before taking it.
+
+# Sources :
+1. https://www.youtube.com/watch?v=XBlT1fmRQfs
