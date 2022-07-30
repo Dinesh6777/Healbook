@@ -1,4 +1,7 @@
-**Benefits:**
+# Drumstick leaf or aka miracle plant Benefits 
+(Munaga Aaku powder Benefits - 2 Tea spoons daily)
+
+# Benefits
 1.  Knee pains - Reduces artherities rommotoid artherities due to rich calcium.
 2.  Calcium problems.
 3.  Reduces BP, Controls Sugar/diabetes.
@@ -24,10 +27,10 @@
 23.  It has 12% fiber that reduces constipation.
 24.  This is used in 300 medicines.
  
-**How to take:**
+# How to take:
 Dry the leaves and make a powder.
 Take 2 teaspoons daily.
  
-**Important Note:**
+# Important Note:
 1. People with kidney problems should reduce the intake.
 2. Pregnant women should consult a doctor before taking it.
