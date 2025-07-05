@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9240bdc5-9ff0-4ff3-8fc4-749e46fa7021)# PreFit 
+# Healbook
 
 A free digital platform to enable everyone in the world with the right knowledge and tools to be fit and healthy. Because prevention is better than cure and let food be thy medicine.
 
@@ -106,10 +106,12 @@ We'll use your feedback to improve the project in the future.
 3. Music Medicine: Sound At A Cellular Level -  Dr. Lee Bartel - TEDxCollingwood - [Youtube](https://www.youtube.com/watch?v=wDZgzsQh0Dw)
 
 ## Other pages
-1. [Drumstick-leaf-Facts](https://www.prefit.org/Health-Facts/Drumstick-leaf-Facts.html)
+1. [Drumstick-leaf-Facts](https://github.com/Dinesh6777/Healbook/blob/main/Health-Facts/Drumstick-leaf-Facts.md)
 2. [spiritualtablets](https://www.prefit.org/spiritualtablets.com.html)
-3. [Acute-Health-Conditions](https://www.prefit.org/Sources/Acute-Health-Conditions.html)
-4. [TheRosettaStoneforSiddhaAndAyurveda](https://www.prefit.org/TheRosettaStoneforSiddhaAndAyurveda.html)
+3. [Acute-Health-Conditions](https://github.com/Dinesh6777/Healbook/blob/main/Sources/Acute-Health-Conditions.md)
+4. [TheRosettaStoneforSiddhaAndAyurveda](https://github.com/Dinesh6777/Healbook/blob/main/TheRosettaStoneforSiddhaAndAyurveda.md)
  
 ## References to read
 1. [Ayurveda, Siddha or Allopathy – What to Choose When](https://isha.sadhguru.org/us/en/wisdom/article/health-a-holistic-perspective)
+
+2. https://github.com/Dinesh6777/Healbook/blob/main/Health-Facts/Drumstick-leaf-Facts.md
