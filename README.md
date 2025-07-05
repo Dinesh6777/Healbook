@@ -1,4 +1,4 @@
-# PreFit 
+![image](https://github.com/user-attachments/assets/9240bdc5-9ff0-4ff3-8fc4-749e46fa7021)# PreFit 
 
 A free digital platform to enable everyone in the world with the right knowledge and tools to be fit and healthy. Because prevention is better than cure and let food be thy medicine.
 
@@ -7,7 +7,8 @@ A free digital platform to enable everyone in the world with the right knowledge
 !-[Prefit Fatty liver](https://user-images.githubusercontent.com/45972925/180625729-433ca0b4-3b24-4227-bf8e-62c77cd926cd.gif)
 
 # Access the Mobile App here(Beta verion) 
-[https://prefit.glideapp.io](https://prefit.glideapp.io)
+[https://healbook-new-rrtj.glide.page](https://healbook-new-rrtj.glide.page)
+
 
 # Important Quotes!
 
@@ -31,25 +32,47 @@ Here you can learn more about the following:
 * Special abilities focus
 * Other related conditions
 
-# Objectives
 
- - Universal Health Facts, tips habits - social sharing/likes/follows/ as per age suggestions
- - Identify symptoms and prevent them at initial stages.
- - Track daily food habits and exercise routines.
- - Track high-level foods intake and Predict protein/vitamin/mineral deficiencies every 3-6 months based on foods consumed. Advise diet plans.
- - A social system - likes, follows - Stats for tips followed and what worked. Verified stats with doc reports.
- - Scan patient medical diagnostic test reports with camera and provide AI analysis.
- - Alert on necessary tests and advises etc. based on age / medical conditions.
- - Detect herbs/plant species with a camera - https://github.com/lobe (Machine Learning Made Easy).
- - Personalized health recommendations.
-	 - based on age, gender, special medical conditions, Geo Location, Weather, best followed by.
- - Trusted and verified content.
-	 - curated by domain experts.
- - Tools to empower patients and doctors
-	 - Lets say fitness tracking history, sync from IOT devices
-	 - Track History of BP readings,
-	 - Track History of Diabetics readings.
- - Separate section for infant care and kids growth.
+# Objectives
+-   Share universal health facts, tips, and habits for social engagement (likes/follows), tailored by age group.
+   
+-   Identify symptoms early and provide preventive guidance.
+    
+-   Track daily food habits and exercise routines.
+    
+-   Monitor intake of key food groups and predict protein, vitamin, and mineral deficiencies every 3–6 months based on consumption. Recommend personalized diet plans.
+    
+-   Build a social system with likes and follows, including statistics on followed tips and their effectiveness—verified with medical reports.
+    
+-   Scan patient diagnostic test reports using the camera and provide AI-based analysis.
+    
+-   Send alerts for necessary tests and medical advice based on age and existing conditions.
+    
+-   Detect herbs and plant species using the camera (e.g., via Lobe – Machine Learning Made Easy).
+    
+-   Offer personalized health recommendations:
+    
+    -   Based on age, gender, medical conditions, geographic location, weather, and popular practices.
+        
+-   Provide trusted and verified content:
+    
+    -   Curated by domain experts.
+        
+-   Offer tools to empower patients and doctors:
+    
+    -   Fitness tracking history, including sync from IoT devices.
+        
+    -   Blood pressure history tracking.
+        
+    -   Diabetes readings history tracking.
+        
+-   Include a dedicated section for infant care and child development.
+    
+-   Generate nutrition recommendations based on user profile and age.
+    
+-   Provide a product and ingredient database. Upon scanning, users can identify harmful ingredients and beneficial components.
+
+
 
 # Where medical information comes from
 
